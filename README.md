@@ -10,5 +10,5 @@ Basically we create a data clean function using nltk which removes non-alpha wor
 * sklearn
 * numpy
 
-# Usage
-Just run jupyter notebook
+## Usage
+Just run the given jupyter notebook in your browser.
